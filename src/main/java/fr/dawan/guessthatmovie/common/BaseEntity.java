@@ -1,4 +1,4 @@
-package fr.dawan.guessthatmovie.entities;
+package fr.dawan.guessthatmovie.common;
 
 import jakarta.persistence.*;
 import lombok.Getter;
